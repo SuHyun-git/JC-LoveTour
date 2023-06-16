@@ -7,6 +7,7 @@ import styled from 'styled-components';
 import { Container, Row, Col, ButtonGroup, Button, Card, Stack, Form, Nav, Navbar, NavDropdown } from 'react-bootstrap';
 
 // 공통부분
+// import { Container, Row, Col } from 'react-bootstrap';
 import Header from '../UI/header';
 import TopNavBar from '../UI/topNavBar';
 import SideBar from '../UI/sideBar';
